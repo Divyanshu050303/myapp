@@ -27,6 +27,6 @@ console.log(multiply(4));
 const add=(number1, number2)=> number1+number2;
 console.log(add(4,6));
     
- 
+
 export const time=10
  
