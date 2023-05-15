@@ -18,7 +18,7 @@ const ArrowFunction1=name=>{
 ArrowFunction1("Singh")
 
 // return statement with arrow function
-const multiply=(number)=>{
+export const multiply=(number)=>{
     return number*3;
 }
 console.log(multiply(4));
@@ -27,4 +27,6 @@ console.log(multiply(4));
 const add=(number1, number2)=> number1+number2;
 console.log(add(4,6));
     
+ 
+export const time=10
  
