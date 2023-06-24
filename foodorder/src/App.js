@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Header from './component/layout/Header';
 function App() {
   return (
     <div className="App">
-       Food Delivery App
+       <Header/>
     </div>
   );
 }
